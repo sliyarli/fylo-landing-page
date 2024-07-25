@@ -36,3 +36,23 @@ Headings, Call-to-actions, Header Navigation
   --light-grayish-blue: hsl(240, 75%, 98%);
   --light-gray: hsl(0, 0%, 75%);
 }
+
+.nav-right a {
+  color: var(--very-dark-blue) !important;
+  font-weight: 400;
+}
+
+.get-started-left .get-started-heading,
+.get-started-left .get-started-paragraph {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700 !important;
+}
+
+.get-started-paragraph {
+  font-weight: 400 !important;
+  width: 80%;
+}
+
+.get-started-right img {
+  width: 100%;
+}
